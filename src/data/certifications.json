@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Data Science Foundation",
+        "source": "Great Learning",
+        "imageSrc": "../../assets/certifications/dataScience.jpg"
+    },
+    {
+        "title": "Privacy and Security in Online Social Media",
+        "source": "NPTEL",
+        "imageSrc": "../../assets/certifications/nptel.jpg"
+    },
+    {
+        "title": "Python Programming",
+        "source": "Chegg",
+        "imageSrc": "../../assets/certifications/chegg.jpg"
+    },
+    {
+        "title": "Devops",
+        "source": "Great Learning",
+        "imageSrc": "../../assets/certifications/devOps.jpg"
+    }
+]

@@ -1,0 +1,129 @@
+@import "../../vars.css";
+
+.container {
+  color: var(--color-text);
+  margin-top: 120px;
+  background: linear-gradient(120deg, #19376d 60%, #576cbc 100%);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100vw;
+  padding: 58px 10%;
+  gap: 10px;
+  box-shadow: 0 8px 32px #04152d55;
+  border-radius: 32px 32px 0 0;
+}
+
+.text h2 {
+  font-size: 60px;
+  font-weight: 800;
+  letter-spacing: 4px;
+  color: #ffe066;
+  margin-bottom: 12px;
+  text-shadow: 0 2px 12px #7fd1b955;
+}
+
+.text p {
+  font-size: 28px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  color: #e0e6ed;
+  margin-bottom: 18px;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  list-style: none;
+  gap: 26px;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  background: rgba(255, 255, 255, 0.04);
+  border-radius: 16px;
+  padding: 14px 28px;
+  box-shadow: 0 2px 12px #7fd1b955;
+  transition:
+    background 0.3s,
+    box-shadow 0.3s,
+    transform 0.3s;
+  cursor: pointer;
+  border: 2px solid transparent;
+  min-width: 320px;
+}
+
+.link:hover {
+  background: linear-gradient(90deg, #ffe06622 0%, #7fd1b922 100%);
+  box-shadow: 0 8px 32px #ffe06655;
+  border: 2px solid #ffe066;
+  transform: scale(1.04) translateY(-2px);
+}
+
+.link img {
+  width: 38px;
+  height: 38px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px #7fd1b955;
+  background: #fff;
+  transition: transform 0.4s, box-shadow 0.3s;
+}
+
+.link:hover img {
+  transform: scale(1.18) rotate(-8deg);
+  box-shadow: 0 8px 24px #ffe06655;
+}
+
+.link a {
+  color: #ffe066;
+  text-decoration: none;
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  transition: color 0.3s, text-shadow 0.3s;
+  text-shadow: 0 2px 8px #7fd1b955;
+  word-break: break-all;
+}
+
+.link:hover a {
+  color: #7fd1b9;
+  text-shadow: 0 4px 16px #7fd1b988;
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    flex-direction: column;
+    gap: 23px;
+    border-radius: 0;
+    padding: 32px 0;
+  }
+
+  .text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .text h2 {
+    font-size: 38px;
+  }
+
+  .text p {
+    font-size: 20px;
+  }
+
+  .links {
+    align-items: center;
+  }
+
+  .link {
+    min-width: 0;
+    width: 90vw;
+    max-width: 400px;
+    padding: 10px 8px;
+  }
+}
+

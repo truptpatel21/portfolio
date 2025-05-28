@@ -1,0 +1,54 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "../../assets/skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "../../assets/skills/css.png"
+  },
+  {
+    "title": "ReactJS",
+    "imageSrc": "../../assets/skills/react.png"
+  },
+  {
+    "title": "NodeJS",
+    "imageSrc": "../../assets/skills/node.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "../../assets/skills/sql.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "../../assets/skills/mongodb.png"
+  },
+  {
+    "title": "NextJS",
+    "imageSrc": "../../assets/skills/nextjs.png"
+  },
+  {
+    "title": "ExpressJS",
+    "imageSrc": "../../assets/skills/expressjs.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "../../assets/skills/github.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "../../assets/skills/aws.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "../../assets/skills/java-script.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "../../assets/skills/tailwind.png"
+  },
+  {
+    "title": "Database",
+    "imageSrc": "../../assets/skills/db.png"
+  }
+]

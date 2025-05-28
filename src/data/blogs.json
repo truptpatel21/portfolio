@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Excited about how Node.js works!!!!",
+        "imageSrc": "../../assets/blog/node.jpeg",
+        "description": "Basic work flow of Node.js. 1) Create server using node and express. Define router.Define Middleware (logging, parsing JSON, handling errors). 2) Router to handle endpoints and HTTP methods. And define controllers to process requests, interact with databases and return response. 3) Database Integration using mongoose, a library for MongoDB and pg (node-postgres) for PostgreSQL. 4) Error Handling: Handle invalid inputs, server error, required etc. And return appropriate HTTP responses. Schema and methods for databases are also included. Authorization, security, using Bcrypt, JWT etc, managing middlewares are optinal but play crucial role.",
+        "link": "https://www.linkedin.com/posts/truptpatel21_excited-about-how-nodejs-works-basic-activity-7237451660891983872-F4Oh?utm_source=share&utm_medium=member_desktop&rcm=ACoAADe-ygsBeWBXBOrGSe4VxZVrQNd0CsGQHf4"
+    },
+    {
+        "title": "Ai Images",
+        "imageSrc": "../../assets/blog/ai.jpg",
+        "description": "Exciting AI Breakthrough! 🚀 Leveraging Bing Image Creator, I've harnessed the power of advanced neural networks to generate captivating visuals. The synergy of AI algorithms enables the creation of dynamic images, revolutionizing content generation . This cutting-edge technology redefines the boundaries of creativity, showcasing the immense potential AI holds in the digital realm. The fusion of machine learning and image synthesis brings forth a new era of visual content production. Witness the intersection of innovation and imagination as we embark on a journey into the future of AI-generated imagery. Join the conversation and explore the limitless possibilities at the forefront of artificial intelligence and visual storytelling! Do try bing image creator and experience innovative image with your own preferences✨",
+        "link": "https://www.linkedin.com/posts/truptpatel21_ai-bingimagecreator-innovation-activity-7149277478711201792-Ze7N?utm_source=share&utm_medium=member_desktop&rcm=ACoAADe-ygsBeWBXBOrGSe4VxZVrQNd0CsGQHf4"
+    },
+    {
+        "title": "Unlocking the Power of Apache Hadoop",
+        "imageSrc": "../../assets/blog/hadoop.jpeg",
+        "description": "Apache Hadoop is an open-source software framework used for distributed storage and processing of large datasets across clusters of computers. It is designed to handle the challenges of big data, which refers to data sets that are too large or complex to be processed using traditional methods.",
+        "link": "https://www.linkedin.com/posts/truptpatel21_unlocking-the-power-of-apache-hadoop-how-activity-7163001241466224640-NDW8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADe-ygsBeWBXBOrGSe4VxZVrQNd0CsGQHf4"
+    }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Finacyy (Finance Manager):",
+    "imageSrc": "../../assets/projects/finacyy.png",
+    "description": "Fiancyy is a web application that helps users manage their finances by tracking expenses, income, and budgets. It provides features like expense categorization, budget planning and goal planning.",
+    "skills": [
+      "Next.js",
+      "Node.js",
+      "MySQL",
+      "Tailwind CSS",
+      "Express.js"
+    ],
+    "demo": "https://finacyy.netlify.app/",
+    "source": "https://github.com/truptpatel21/finance_frontend"
+  },
+  {
+    "title": "Cloud Infrastructure Automation with React:",
+    "imageSrc": "../../assets/projects/2.png",
+    "description": "Automating Various service creation like AWS (S3, VPC, Lambda, EC2), Docker, Jenkins CI/CD Pipeline.",
+    "skills": [
+      "React.js",
+      "Node.js",
+      "AWS",
+      "Docker",
+      "Jenkins",
+      "Terraform",
+      "Git"
+    ],
+    "demo": "",
+    "source": "https://github.com/truptpatel21/Automated_System_for_cloud_and_docker"
+  },
+  {
+    "title": "Video Audio Processing:",
+    "imageSrc": "../../assets/projects/3.jpeg",
+    "description": "Video Processing with video-audio, audio-text, video-text, video translation and video subtitle generation functionality getting 85% accuracy and 85% accuracy in noisy environment.",
+    "skills": [
+      "Flask",
+      "Python",
+      "OpenCV",
+      "Google Cloud Api"
+    ],
+    "demo": "",
+    "source": "https://github.com/truptpatel21/Video-Audio-Processing"
+  },
+  {
+    "title": "Easy Take Website",
+    "imageSrc": "../../assets/projects/easytake.png",
+    "description": "IT solution platform. Includes client testinomials and service catalogs. Created and maintained a RESTful API with Express.js and Node.js. Established admin dashboard for Admin privileges for securely manage and access user data.",
+    "skills": [
+      "React.js",
+      "Express.js",
+      "Node.js",
+      "MongoDB"
+    ],
+    "demo": "",
+    "source": "https://github.com/truptpatel21/Easy-Take/tree/master"
+  },
+  {
+    "title": "Go Food",
+    "imageSrc": "../../assets/projects/food.png",
+    "description": "Developed Food App. User can order food and also add restaurant to the webiste to sell their foods. Managed food listing, cart and order page for the website. Established Admin dashboard for user and food management.",
+    "skills": [
+      "React.js",
+      "Express.js",
+      "Node.js",
+      "MySQL"
+    ],
+    "demo": "",
+    "source": "https://github.com/truptpatel21/FoodWebsite"
+  }
+]
