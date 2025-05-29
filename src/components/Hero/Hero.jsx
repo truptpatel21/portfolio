@@ -3,13 +3,15 @@ import styles from "./Hero.module.css";
 // import { getImageUrl } from "../../utils";
 import trupt from '../../../assets/hero/trupt.png'
 
+const resumeLink = "https://drive.google.com/file/d/1xvY0fAkYM1Ol5ZlkjEC4O-NpKMKH4m8P/view?usp=sharing"
+
 export const Hero = () => {
   const [showResume, setShowResume] = useState(false);
 
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Trupt!!</h1>
+        <h1 className={styles.title}>Hi, I'm Trupt   !!</h1>
         <p className={styles.description}>
           Dedicated Software Engineer with a passion for building robust and scalable solutions.
         </p>
@@ -17,7 +19,7 @@ export const Hero = () => {
           With a strong foundation in full-stack development, Experienced working with technologies like React, Node.js, as well as hands-on expertise in cloud platform like AWS.
         </p>
         <a
-          href="../../../assets/TRUPT_PATEL_RESUME.pdf"
+          href= {resumeLink}
           target="_blank"
           rel="noopener noreferrer"
           className={styles.contactBtn}
@@ -37,7 +39,7 @@ export const Hero = () => {
         <div className={styles.resumeModal} onClick={() => setShowResume(false)}>
           <div className={styles.resumeContent} onClick={e => e.stopPropagation()}>
             <iframe
-              src="../../../assets/TRUPT_PATEL_RESUME.pdf"
+              src = {resumeLink}
               title="Resume"
               className={styles.resumeFrame}
             />

@@ -1,7 +1,7 @@
 [
   {
     "title": "Finacyy (Finance Manager):",
-    "imageSrc": "../../assets/projects/finacyy.png",
+    "imageSrc": "../../assets/projects/finacyy1.png",
     "description": "Fiancyy is a web application that helps users manage their finances by tracking expenses, income, and budgets. It provides features like expense categorization, budget planning and goal planning.",
     "skills": [
       "Next.js",
