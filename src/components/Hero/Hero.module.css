@@ -21,6 +21,22 @@
   animation: fadeInLeft 1.2s;
 }
 
+.socialLinks {
+  display: flex;
+  gap: 18px;
+  justify-content: center;
+  margin: 18px 0 0 0;
+}
+
+.socialLinks a {
+  color: #576cbc; /* or any visible color */
+  transition: color 0.2s, transform 0.2s;
+}
+.socialLinks a:hover {
+  color: #ffe066;
+  transform: scale(1.15);
+}
+
 @keyframes fadeInLeft {
   from {
     opacity: 0;
