@@ -3,8 +3,12 @@
     "role": "Software Engineer",
     "organisation": "Hyperlink Infosystem Pvt. Ltd.",
     "startDate": "Jan, 2025",
-    "endDate": "Present",
-    "experiences": ["Worked on real-time web applications, focusing on frontend NextJS and ReactJS, backend NodeJS, and MySQL database. ", "Developed and optimized RESTful APIs, connected dynamic UIs, and implemented server-side logic. And utilized Redux for efficiency ", "Collaborated on database schema design and ensured data integrity in production systems."],
+    "endDate": "May, 2025",
+    "experiences": [
+      "Worked on real-time web applications, focusing on frontend NextJS and ReactJS, backend NodeJS, and MySQL database. ",
+      "Developed and optimized RESTful APIs, connected dynamic UIs, and implemented server-side logic. And utilized Redux for efficiency ",
+      "Collaborated on database schema design and ensured data integrity in production systems."
+    ],
     "imageSrc": "../../assets/history/hyperlink.jpeg"
   },
   {
@@ -12,7 +16,10 @@
     "organisation": "Neurapses Technology Pvt. Ltd.",
     "startDate": "May, 2024",
     "endDate": "July, 2024",
-    "experiences": ["Worked on the frontend part with React", "Developed Drug Recommendation AI Chatbot:"],
+    "experiences": [
+      "Worked on the frontend part with React",
+      "Developed Drug Recommendation AI Chatbot:"
+    ],
     "imageSrc": "../../assets/history/neuro.jpeg"
   }
 ]
