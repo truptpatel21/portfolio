@@ -50,5 +50,9 @@
   {
     "title": "Database",
     "imageSrc": "../../assets/skills/db.png"
+  },
+  {
+    "title": "PHP",
+    "imageSrc": "../../assets/skills/php.png"
   }
 ]
