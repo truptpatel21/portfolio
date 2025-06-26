@@ -3,7 +3,7 @@ import styles from "./Hero.module.css";
 // import { getImageUrl } from "../../utils";
 import trupt from '../../../assets/hero/trupt.png'
 
-const resumeLink = "https://drive.google.com/file/d/1-D5W5kfhrWT2QXszlKFznAswbJjFT8uS/view?usp=sharing"
+const resumeLink = "https://drive.google.com/file/d/1XTlGgR8BNpsjhXhiCu7KXGbIxk6uU-DX/view?usp=sharing"
 
 export const Hero = () => {
   const [showResume, setShowResume] = useState(false);

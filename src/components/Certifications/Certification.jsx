@@ -11,13 +11,16 @@ export const Certification = () => {
             <br />
             <div className={styles.certificates}>
                 {certifications.map((cert, idx) => (
-                    <div key={idx} className={styles.certificate}>
+                    <div
+                        key={idx}
+                        className={styles.certificate}
+                        onClick={() => setPreview(cert.imageSrc)}
+                        style={{ cursor: "pointer" }}
+                    >
                         <img
                             src={cert.imageSrc}
                             alt={cert.title}
                             className={styles.certificateImage}
-                            onClick={() => setPreview(cert.imageSrc)}
-                            style={{ cursor: "pointer" }}
                         />
                         <p className={styles.certTitle}>{cert.title}</p>
                         <p className={styles.certSource}>{cert.source}</p>

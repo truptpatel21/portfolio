@@ -1,5 +1,10 @@
 [
     {
+        "title": "Certified Associate Python Programmer PCAP-2025",
+        "source": "CertifyCore Inc.",
+        "imageSrc": "../../assets/certifications/PCAP.png"
+    },
+    {
         "title": "Data Science Foundation",
         "source": "Great Learning",
         "imageSrc": "../../assets/certifications/dataScience.jpg"
