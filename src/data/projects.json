@@ -1,5 +1,18 @@
 [
   {
+    "title": "Heaven (Real Estate Developer):",
+    "imageSrc": "../../assets/projects/heaven2.png",
+    "description": "A Real Estate Developer website that showcases properties, provides information about the company, and allows users to contact them for inquiries. It features a modern design and responsive layout.",
+    "skills": [
+      "React.js",
+      "Node.js",
+      "MongoDB",
+      "Tailwind CSS"
+    ],
+    "demo": "https://heavengroup.netlify.app/",
+    "source": "https://github.com/truptpatel21/Heaven"
+  },
+  {
     "title": "Finacyy (Finance Manager):",
     "imageSrc": "../../assets/projects/finacyy1.png",
     "description": "Fiancyy is a web application that helps users manage their finances by tracking expenses, income, and budgets. It provides features like expense categorization, budget planning and goal planning.",
