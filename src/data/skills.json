@@ -8,12 +8,40 @@
     "imageSrc": "../../assets/skills/css.png"
   },
   {
+    "title": "JavaScript",
+    "imageSrc": "../../assets/skills/java-script.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "../../assets/skills/tailwind.png"
+  },
+  {
     "title": "ReactJS",
     "imageSrc": "../../assets/skills/react.png"
   },
   {
+    "title": "NextJS",
+    "imageSrc": "../../assets/skills/nextjs.png"
+  },
+  {
+    "title": "VueJS",
+    "imageSrc": "../../assets/skills/vue.png"
+  },
+  {
+    "title": "NuxtJS",
+    "imageSrc": "../../assets/skills/nuxt.png"
+  },
+  {
     "title": "NodeJS",
     "imageSrc": "../../assets/skills/node.png"
+  },
+  {
+    "title": "ExpressJS",
+    "imageSrc": "../../assets/skills/expressjs.png"
+  },
+  {
+    "title": "Database",
+    "imageSrc": "../../assets/skills/db.png"
   },
   {
     "title": "MySQL",
@@ -24,14 +52,6 @@
     "imageSrc": "../../assets/skills/mongodb.png"
   },
   {
-    "title": "NextJS",
-    "imageSrc": "../../assets/skills/nextjs.png"
-  },
-  {
-    "title": "ExpressJS",
-    "imageSrc": "../../assets/skills/expressjs.png"
-  },
-  {
     "title": "GitHub",
     "imageSrc": "../../assets/skills/github.png"
   },
@@ -40,16 +60,8 @@
     "imageSrc": "../../assets/skills/aws.png"
   },
   {
-    "title": "JavaScript",
-    "imageSrc": "../../assets/skills/java-script.png"
-  },
-  {
-    "title": "Tailwind CSS",
-    "imageSrc": "../../assets/skills/tailwind.png"
-  },
-  {
-    "title": "Database",
-    "imageSrc": "../../assets/skills/db.png"
+    "title": "Python",
+    "imageSrc": "../../assets/skills/python.png"
   },
   {
     "title": "PHP",
